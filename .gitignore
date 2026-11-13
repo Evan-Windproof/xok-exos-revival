@@ -1,0 +1,22 @@
+# Private revival backups
+xok-revival-backup/
+Debian2.2/
+
+# VMware virtual machines
+*.vmdk
+*.vmsn
+*.vmem
+*.nvram
+*.lck/
+
+# Archives and disk images
+*.tar.xz
+*.tar.gz
+*.zip
+*.img
+*.iso
+
+# Local logs and secrets
+*.log
+*.pcap
+*.key
